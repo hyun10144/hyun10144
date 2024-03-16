@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Hi+%3A+I+AM+GaHyun+Kim)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&center=true&theme=gruvbox)
 
 <div align=center>
    <div>
