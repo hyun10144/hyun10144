@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <div>
    <div>
     <h4>Tool</h4>
-    <img src="https://img.shields.io/badge/visualbasic-007ACC?style=for-the-badge&logo=visualbasic&logoColor=black"> 
+    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black"> 
     <img src="https://img.shields.io/badge/googlecolab-3776AB?style=for-the-badge&logo=googlecolab&logoColor=black"> 
     <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black"> 
   </div>
