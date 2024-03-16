@@ -7,13 +7,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde43f,100:fda830&width=100%&height=120&text=&animation=twinkling&fontColor=000000&fontSize=70" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Hi+%3A+I+AM+GaHyun+Kim)](https://git.io/typing-svg)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&center=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun10144&layout=compact)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=a10144)](https://solved.ac/a10144)
-
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Hi+%3A+I+AM+GaHyun+Kim" alt="Typing SVG">
