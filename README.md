@@ -3,12 +3,7 @@ hyun10144/hyun10144 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde43f,100:fda830&height=120&text=&animation=twinkling&fontColor=000000&fontSize=70" />
-    </div>
-    <div align= "center"> 
-       <img src="https://github-readme-stats.vercel.app/api?username=hyun10144&bg_color=60,000000,000000&title_color=ffffff&text_color=ffffff"/> 
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun10144&layout=compact&bg_color=60,000000,000000&title_color=ffffff&text_color=ffffff"/> 
-    </div> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde43f,100:fda830&width=100%&height=120&text=&animation=twinkling&fontColor=000000&fontSize=70" />
 </div>
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Hi+%3A+I+AM+GaHyun+Kim)](https://git.io/typing-svg)
