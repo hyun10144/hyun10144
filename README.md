@@ -12,9 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&center=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun10144&layout=compact)
-<div align="center">
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=a10144)](https://solved.ac/a10144)
-</div>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=a10144)](https://solved.ac/a10144)
+
 <hr>
 <div align=center>
    <div>
