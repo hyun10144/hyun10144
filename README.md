@@ -9,8 +9,11 @@ You can click the Preview link to take a look at your changes.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Hi+%3A+I+AM+GaHyun+Kim)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&center=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<div>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&center=true&theme=gruvbox)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun10144&layout=compact)
+</div>
+
 <hr>
 <div align=center>
    <div>
@@ -46,7 +49,7 @@ You can click the Preview link to take a look at your changes.
   </div>
 </div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun10144&count_bg=%23FFBD40&title_bg=%23000000&icon=github.svg&center=true&icon_color=%23E7E7E7&title=%27%E3%85%A1%27&edge_flat=false"/></a>
-
+<hr>
 
 <!--- 
 - Academic Interests
