@@ -2,6 +2,7 @@
 hyun10144/hyun10144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div style="backgound-color:white">안녕</div>
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde43f,100:fda830&width=100%&height=120&text=&animation=twinkling&fontColor=000000&fontSize=70" />
 </div>
