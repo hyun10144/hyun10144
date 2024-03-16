@@ -8,11 +8,11 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Hi+%3A+I+AM+GaHyun+Kim)](https://git.io/typing-svg)
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&theme=gruvbox)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun10144&count_bg=%23FFBD40&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%27%E3%85%A1%27&edge_flat=false"/></a>
-
+<div align=center>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&theme=gruvbox)
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun10144&count_bg=%23FFBD40&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%27%E3%85%A1%27&edge_flat=false"/></a>
+</div>
 <div align=center>
    <div>
     <h4>Tool</h4>
