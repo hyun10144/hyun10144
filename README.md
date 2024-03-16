@@ -6,18 +6,17 @@ You can click the Preview link to take a look at your changes.
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde43f,100:fda830&width=100%&height=120&text=&animation=twinkling&fontColor=000000&fontSize=70" />
 </div>
-<br>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Hi+%3A+I+AM+GaHyun+Kim" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Hi+%3A+I+AM+GaHyun+Kim" alt="Typing SVG">
     </a>
 </div>
 <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&center=true&theme=gruvbox" alt="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun10144&layout=compact" alt="Top Languages">
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun10144&layout=compact" alt="Top Languages">
     <a href="https://solved.ac/a10144">
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=a10144" alt="Solved.ac profile">
     </a>
