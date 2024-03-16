@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&theme=radical)
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun10144&count_bg=%23FFBD40&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%27%E3%85%A1%27&edge_flat=false"/></a>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&size=20&duration=1&pause=1&color=000000&vCenter=true&repeat=false&random=false&width=1000&lines=-+Education+%3A+Gachon+University" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&size=20&duration=1&pause=1&color=000000&vCenter=true&repeat=false&random=false&width=1000&lines=-+Department+%3A+Computer+Engineering" alt="Typing SVG" /></a>
 
