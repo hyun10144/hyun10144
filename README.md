@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
     <h4>Frontend</h4>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
   <div>
     <h4>Backend</h4>
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   <div>
     <h4>Studying</h4>
      <img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> 
-     <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
+     <img src="https://img.shields.io/badge/Andoid-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   </div>
 </div>
 
