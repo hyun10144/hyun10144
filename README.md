@@ -2,20 +2,20 @@
 hyun10144/hyun10144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div style="backgound-color:white">안녕</div>
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde43f,100:fda830&width=100%&height=120&text=&animation=twinkling&fontColor=000000&fontSize=70" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Hi+%3A+I+AM+GaHyun+Kim)](https://git.io/typing-svg)
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&theme=merko)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun10144&count_bg=%23FFBD40&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%27%E3%85%A1%27&edge_flat=false"/></a>
 
 <div>
    <div>
-    <h4 style="text-align: center; color: black;">Tool</h4>
+    <h4>Tool</h4>
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black"> 
     <img src="https://img.shields.io/badge/googlecolab-3776AB?style=for-the-badge&logo=googlecolab&logoColor=black"> 
     <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black"> 
