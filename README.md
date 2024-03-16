@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hyun10144&show_icons=true&center=true&theme=gruvbox" alt="GitHub stats">
+</div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun10144&layout=compact" alt="Top Languages">
     <a href="https://solved.ac/a10144">
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=a10144" alt="Solved.ac profile">
