@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde43f,100:fda830&width=100%&height=120&text=&animation=twinkling&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde43f,100:fda830&width=100%&height=130&text=&animation=twinkling&fontColor=000000&fontSize=70" />
 </div>
 <div align="center">
     <a href="https://git.io/typing-svg">
